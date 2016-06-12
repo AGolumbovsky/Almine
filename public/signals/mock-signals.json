@@ -1,0 +1,11 @@
+[
+    { "category": "sound", "intensity": "3" },
+    { "category": "temperature", "intensity": "3" },
+    { "category": "sound", "intensity": "3" },
+    { "category": "acceleration", "intensity": "3" },
+    { "category": "sound", "intensity": "3" }
+
+]
+    
+
+
