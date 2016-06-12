@@ -13,7 +13,7 @@ var app = express();
 var port = process.env.PORT || 8777;
 
 //serve static files
-app.use('/assets', express.static(__dirname + '/public'));
+app.use('/', express.static(__dirname + '/public'));
 
 //app.set('view engine', 'ejs');
 
